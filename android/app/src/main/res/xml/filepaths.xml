@@ -1,6 +1,0 @@
-<paths>
-    <external-path
-        name="my_images"
-        path="." />
-<!--        path="Android/data/com.spring.kakaomap_webview_unit/files/Pictures" />-->
-</paths>
